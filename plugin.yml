@@ -1,0 +1,14 @@
+name: crDonateCase
+main: geaking\crDonateCase
+version: 0.0.1
+api: 2.0.0
+load: POSTWORLD
+author: GeaKing(vk.com/easymanfifa)
+website: vk.com/createyouproject
+commands:
+  donatecase:
+    description: Донат кейсы
+    permission: donatecase
+permissions:
+  donatecase:
+    default: true
